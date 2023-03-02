@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.javacript linguist-detectable=true
+*.vue linguist-detectable=true
+*.laravel linguist-detectable=true
